@@ -344,6 +344,8 @@
 	{
 		"en"		"Say '%s' to view your own ranking data."
 		"de"		"Sage '!%s', um deine Ranglistendaten anzuzeigen."
+		"chi"		"输入 '!%s' 来查看你的等级数据"
+		
 	}
 	"ExplainPanel_Line6"
 	{
@@ -354,6 +356,7 @@
 	{
 		"en"		"Close"
 		"de"		"Schließen"
+		"chi"		"关闭"
 	}
 	"kick-fall"
 	{
@@ -374,145 +377,176 @@
 	{
 		"en"		"Kick"
 		"de"		"Tritt"
+		"chi"		"踢"
 	}
 	"blast"
 	{
 		"en"		"Blast"
 		"de"		"Explosion"
+		"chi"		"爆炸"
 	}
 	"physics"
 	{
 		"en"		"Thrown Dynamite"
 		"de"		"Geworfenes Dynamit"
+		"chi"		"投掷炸药"
 	}
 	"dynamite_black"
 	{
 		"en"		"Black Dynamite"
 		"de"		"Schwarzes Dynamit"
+		"chi"		"黑色炸药"
 	}
 	"dynamite_yellow"
 	{
 		"en"		"Yellow Dynamite"
 		"de"		"Gelbes Dynamit"
+		"chi"		"黄色炸药"
 	}
 	"dynamite"
 	{
 		"en"		"Dynamite"
 		"de"		"Dynamit"
+		"chi"		"炸药"
 	}
 	"arrow"
 	{
 		"en"		"Bow and Arrow"
 		"de"		"Pfeil und Bogen"
+		"chi"		"长弓"
 	}
 	"thrown_knife"
 	{
 		"en"		"Thrown Knife"
 		"de"		"Geworfenes Messer"
+		"chi"		"投掷小刀"
 	}
 	"thrown_axe"
 	{
 		"en"		"Thrown Axe"
 		"de"		"Geworfene Axt"
+		"chi"		"投掷斧头"
 	}
 	"thrown_machete"
 	{
 		"en"		"Thrown Machete"
 		"de"		"Geworfene Machete"
+		"chi"		"投掷弯刀"
 	}
 	"fists"
 	{
 		"en"		"Fists"
 		"de"		"Fäuste"
+		"chi"		"拳头"
 	}
 	"fists_brass"
 	{
 		"en"		"Brass Knuckles"
 		"de"		"Schlagring"
+		"chi"		"指虎"
 	}
 	"knife"
 	{
 		"en"		"Knife"
 		"de"		"Messer"
+		"chi"		"小刀"
 	}
 	"deringer"
 	{
 		"en"		"Deringer"
 		"de"		"Deringer"
+		"chi"		"狄林杰袖珍手枪"
 	}
 	"volcanic"
 	{
 		"en"		"Volcanic Pistol"
 		"de"		"Volcanic Pistol"
+		"chi"		"火山牌连珠手枪"
 	}
 	"coltnavy"
 	{
 		"en"		"Colt Navy"
 		"de"		"Colt Navy"
+		"chi"		"柯尔特 1851 海军型"
 	}
 	"axe"
 	{
 		"en"		"Axe"
 		"de"		"Axt"
+		"chi"		"斧头"
 	}
 	"sawedoff_shotgun"
 	{
 		"en"		"Sawed-Off Shotgun"
 		"de"		"Sawed-Off Shotgun"
+		"chi"		"短管霰弹枪"
 	}
 	"maresleg"
 	{
 		"en"		"Mare's Leg"
 		"de"		"Mare's Leg"
+		"chi"		"马腿子短步枪"
+		
 	}
 	"remington_army"
 	{
 		"en"		"Remington Army"
 		"de"		"Remington Army"
+		"chi"		"雷明顿军用手枪"
 	}
 	"schofield"
 	{
 		"en"		"SW Schofield"
 		"de"		"SW Schofield"
+		"chi"		"史密斯韦森三号手枪"
 	}
 	"carbine"
 	{
 		"en"		"Smith Carbine"
 		"de"		"Smith Carbine"
+		"chi"		"史密斯单发卡宾枪"
+		
 	}
 	"peacemaker"
 	{
 		"en"		"Colt Peacemaker"
 		"de"		"Colt Peacemaker"
+		"chi"		"柯尔特 决斗者手枪"
 	}
 	"henryrifle"
 	{
 		"en"		"Henry Rifle"
 		"de"		"Henry Rifle"
+		"chi"		"亨利杠杆步枪"
 	}
 	"coachgun"
 	{
 		"en"		"Coachgun"
 		"de"		"Coachgun"
+		"chi"		"双管猎枪"
 	}
 	"machete"
 	{
 		"en"		"Machete"
 		"de"		"Machete"
+		"chi"		"弯刀"
 	}
 	"shotgun"
 	{
 		"en"		"Pump Shotgun"
 		"de"		"Pump Shotgun"
+		"chi"		"泵动霰弹枪"
 	}
 	"sharps"
 	{
 		"en"		"Sharps Rifle"
 		"de"		"Sharps Rifle"
+		"chi"		"夏普式精确步枪"
 	}
 	"walker"
 	{
 		"en"		"Colt Walker"
 		"de"		"Colt Walker"
+                "chi"		"柯尔特 沃克手枪"
 	}
 }
